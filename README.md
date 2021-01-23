@@ -2,6 +2,10 @@
 
 A self-motivated tech enthusiast and full-stack software developer 👨🏻‍💻.
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=venkatesh73"
+/>
+
 **Languages and Tools:**
 
 <br/>
