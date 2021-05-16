@@ -2,7 +2,7 @@
 
 A self-motivated tech enthusiast and full-stack software developer 👨🏻‍💻.
 
-<figure><embed src="https://wakatime.com/share/@1e9ee40e-d096-4049-8193-8b2138d12c49/dcf00ccb-f4d2-4a65-b6bc-8c5949004451.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1e9ee40e-d096-4049-8193-8b2138d12c49/ab3fe1ba-502b-41d1-8d23-3b550f99abdf.png" /></a>
 
 **Languages and Tools:**
 
